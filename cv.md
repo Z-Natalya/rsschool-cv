@@ -18,7 +18,7 @@ At university, I studied Pascal and C#. This gave me a basic knowledge of OOP, t
 * Languages: Swift, Basic С#, Basic HTML
 * VCS: Github
 ## Education:
-Belarusian State Pedagogical University
+* Belarusian State Pedagogical University
     - Faculty of Physics     
     - Specialty: Teacher of physics
 * Belarusian State University of Economics
